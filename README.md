@@ -17,14 +17,14 @@
 Откройте терминал в папке с проектом и введите:
 
 1. Установка библиотек:
-
+```
 pip install streamlit opencv-python-headless numpy pandas pillow
-
+```
 
 2. Запуск:
-
-streamlit run main.py
-
+```
+streamlit run a.py
+```
 
 Как пользоваться
 
